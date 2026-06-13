@@ -76,10 +76,10 @@ default motion, not a recovery procedure.
 
 Projects driven toward verified 100% coverage with cover100:
 
-- [specscore/specscore-cli](https://github.com/specscore/specscore-cli) — the SpecScore command-line tool for spec-driven development.
-- [dal-go/dalgo](https://github.com/dal-go/dalgo) — database abstraction layer for Go.
-- [ingitdb/ingitdb-cli](https://github.com/ingitdb/ingitdb-cli) — command-line tool for inGitDB, a Git-backed database.
-- [bots-go-framework/bots-fw](https://github.com/bots-go-framework/bots-fw) — the bots-go-framework core for building chat bots in Go.
+- [specscore/specscore-cli](https://github.com/specscore/specscore-cli) — CLI for SpecScore: lint, query, and scaffold specifications.
+- [dal-go/dalgo](https://github.com/dal-go/dalgo) — database abstraction layer for Go applications.
+- [ingitdb/ingitdb-cli](https://github.com/ingitdb/ingitdb-cli) — CLI for inGitDB, a schema-validated database whose storage engine is a Git repository.
+- [bots-go-framework/bots-fw](https://github.com/bots-go-framework/bots-fw) — Go framework for developing bots for messengers.
 
 ## Install
 
